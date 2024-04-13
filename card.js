@@ -7,7 +7,7 @@ const chalk = require("chalk");
 
 const data = {
     name: chalk.green("                         Raphael Carneiro"),
-    work: `${chalk.white("IT Assistant at")} ${chalk.cyan("Medgrupo")}`,
+    work: `${chalk.white("Software Developer Student at")} ${chalk.cyan("BYU - Idaho")}`,
 
     github: chalk.gray("https://github.com/") + chalk.magenta("raphael-gc"),
     twitter: chalk.gray("https://twitter.com/") + chalk.magenta("_raphaelgc"),
@@ -38,7 +38,7 @@ const me = boxen(
         `${data.labelCard}  ${data.npx}`,
         ``,
 
-        `${chalk.green.italic("🌱 I'm a human being in love with learning how everything works. 💛")}`,
+        `${chalk.green.italic("🌱 This is my NPX card. You can access my social media links (coming soon my resume) directly through the console or terminal. 💛")}`,
 
     ].join("\n"),
     {

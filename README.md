@@ -1,6 +1,6 @@
 ## Hello there!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-This is my NPX card to connect with me directly via console or terminal
+This is my NPX card. You can access my social media links directly through the console or terminal.
 
 ## Usage
 
